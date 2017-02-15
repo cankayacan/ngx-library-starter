@@ -1,0 +1,14 @@
+node_modules
+npm-debug.log
+
+.compiled
+dist
+src-temp
+
+.vscode
+.idea
+.DS_Store
+
+*.shim.ngstyle.ts
+*.ngsummary.json
+*.ngfactory.ts
